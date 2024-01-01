@@ -1,11 +1,10 @@
 ### Hi there 👋, 
-#### A MERN STACK DEVELOPER
-Web developer Currently building Restful-API with Node.JS/Express.JS and MongoDB .
+#### A PHP & MERN STACK DEVELOPER
+Web developer Currently building Restful-API with Node.JS/Express.JS and PHP with Sql and MongoDB .
 
-Skills:  Core PHP /  JS / HTML / CSS / NODE / REACT / EXPRESS / MySQL / MongoDB / BOOTSTRAP
+Skills:  Core PHP / Codeignitor / Laravel /  JS / HTML / CSS / NODE / REACT / EXPRESS / MySQL / MongoDB / BOOTSTRAP
 
-- 🔭 I’m currently working on  Node.js, PHP, MySQL, JavaScript, Bootstrap  
-- 🌱 I’m currently learning Redux
+- 🔭 I’m currently working on  Node.js, PHP, Laravel, Codeignitor, MySQL, JavaScript, Bootstrap  
 - 👯 I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me: https://www.linkedin.com/in/sameer-hassan-6351601ba/
 
