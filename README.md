@@ -2,7 +2,7 @@
 #### A PHP & MERN STACK DEVELOPER
 Web developer Currently building Restful-API with Node.JS/Express.JS and PHP with Sql and MongoDB .
 
-Skills:  Core PHP / Codeignitor / Laravel / JS / NODE / NEST / REACT / MySQL / MongoDB 
+Skills:  Core PHP / Codeignitor / Laravel / JS / NODE / NEST / REACT / NEXT / MySQL / MongoDB / POSTGRESQL
 
 - 🔭 I’m currently working on  Node.js, Nest.js, PHP, Laravel, Codeignitor, MySQL, JavaScript
 - 👯 I’m looking to collaborate on Full Stack Projects
